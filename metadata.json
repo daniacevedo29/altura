@@ -1,0 +1,8 @@
+{
+  "name": "Apex Athletica — Tienda de Ropa Deportiva",
+  "description": "Local de ropa deportiva técnica, calzado de alto rendimiento y accesorios. Explorá el catálogo completo y conocé nuestra ubicación y contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
